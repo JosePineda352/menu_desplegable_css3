@@ -15,7 +15,7 @@ body{font-family: Verdana, 'Lucida Grande';}
   position: relative;
 }
 #menu > ul > li > a {
-  color: #a0a0a0;
+  color: grey;
   font-size: 15px;
   line-height: 40px;
   padding: 11px 20px;
@@ -35,7 +35,7 @@ body{font-family: Verdana, 'Lucida Grande';}
   position: absolute;
   top: 25px;
   left: 50%;
-  margin-left: -90px;
+  margin-left: -75px;
   width: 180px;
   -webkit-transition: all .3s .1s;
   -moz-transition: all .3s .1s;
