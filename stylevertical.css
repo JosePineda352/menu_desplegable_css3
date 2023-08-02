@@ -4,7 +4,7 @@
 #menu {
 	width:130px;
 	margin: 0 auto;
-	background: #252525;	
+	background: cadetblue;	
 	box-shadow: 0 2px 3px rgba(0,0,0,0.4);
 	font-family:Verdana, "Lucida Sans";
 }
@@ -14,9 +14,9 @@
 	position: relative;
 }
 #menu > ul > li > a{
-	color:#a0a0a0;
+	color: white;
 	line-height: 40px;
-	font-size: 15px;
+	font-size: 30px;
 	padding: 11px 20px;
 	-webkit-transition: color 0.15s;
 	-moz-transition: color 0.15s;
@@ -30,7 +30,7 @@
 	opacity: 0;
 	visibility: hidden;
 	padding: 15px 0 20px;
-	background: #fafafa;
+	background: blue;
 	text-align: left;
 	position: absolute;
 	top: 50%;
